@@ -17,6 +17,33 @@ Il progetto consiste nella costruzione di vari modelli di machine learning atti 
 
 
 
+
+
+## Documentazione
+
+È possibile trovare la documentazione relativa al progetto nella cartella docs, può essere immediatamente visualizzata al seguente [link](https://github.com/livio-24/LoanEligibilityPrediction/blob/main/docs/Documentazione_progetto_FIA.pdf).
+
+## Demo
+
+La demo è disponibile al seguente [link](https://huggingface.co/spaces/Liviox24/LoanEligibilityPrediction) ed è stata realizzata tramite la libreria Gradio.
+## Modelli di ML utilizzati
+
+- Logistic Regression
+- Gaussian Naive Bayes
+- Random Forest
+- Decision Tree
+- XGBoost
+## Tecnologie utilizzate
+
+- [Python](https://www.python.org/downloads/release/python-3102/)
+- [Google colab](https://colab.research.google.com/)
+- [Jupyter notebook](https://jupyter.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Latex](https://it.overleaf.com/project)
+- [Gradio](https://gradio.app/)
+
+
 ## Autori
 
 - [livio-24](https://github.com/livio-24)
